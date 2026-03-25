@@ -1,0 +1,10 @@
+D:\ITEC\I parcial\Programacion\Notafinal\Notafinal\bin\Debug\Notafinal.exe.config
+D:\ITEC\I parcial\Programacion\Notafinal\Notafinal\bin\Debug\Notafinal.exe
+D:\ITEC\I parcial\Programacion\Notafinal\Notafinal\bin\Debug\Notafinal.pdb
+D:\ITEC\I parcial\Programacion\Notafinal\Notafinal\obj\Debug\Notafinal.csproj.AssemblyReference.cache
+D:\ITEC\I parcial\Programacion\Notafinal\Notafinal\obj\Debug\Notafinal.Form1.resources
+D:\ITEC\I parcial\Programacion\Notafinal\Notafinal\obj\Debug\Notafinal.Properties.Resources.resources
+D:\ITEC\I parcial\Programacion\Notafinal\Notafinal\obj\Debug\Notafinal.csproj.GenerateResource.cache
+D:\ITEC\I parcial\Programacion\Notafinal\Notafinal\obj\Debug\Notafinal.csproj.CoreCompileInputs.cache
+D:\ITEC\I parcial\Programacion\Notafinal\Notafinal\obj\Debug\Notafinal.exe
+D:\ITEC\I parcial\Programacion\Notafinal\Notafinal\obj\Debug\Notafinal.pdb
