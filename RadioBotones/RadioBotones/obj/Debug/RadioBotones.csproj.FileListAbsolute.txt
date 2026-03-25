@@ -1,0 +1,10 @@
+D:\ITEC\I parcial\Programacion\RadioBotones\RadioBotones\obj\Debug\RadioBotones.csproj.AssemblyReference.cache
+D:\ITEC\I parcial\Programacion\RadioBotones\RadioBotones\obj\Debug\RadioBotones.Form1.resources
+D:\ITEC\I parcial\Programacion\RadioBotones\RadioBotones\obj\Debug\RadioBotones.Properties.Resources.resources
+D:\ITEC\I parcial\Programacion\RadioBotones\RadioBotones\obj\Debug\RadioBotones.csproj.GenerateResource.cache
+D:\ITEC\I parcial\Programacion\RadioBotones\RadioBotones\obj\Debug\RadioBotones.csproj.CoreCompileInputs.cache
+D:\ITEC\I parcial\Programacion\RadioBotones\RadioBotones\bin\Debug\RadioBotones.exe.config
+D:\ITEC\I parcial\Programacion\RadioBotones\RadioBotones\bin\Debug\RadioBotones.exe
+D:\ITEC\I parcial\Programacion\RadioBotones\RadioBotones\bin\Debug\RadioBotones.pdb
+D:\ITEC\I parcial\Programacion\RadioBotones\RadioBotones\obj\Debug\RadioBotones.exe
+D:\ITEC\I parcial\Programacion\RadioBotones\RadioBotones\obj\Debug\RadioBotones.pdb
